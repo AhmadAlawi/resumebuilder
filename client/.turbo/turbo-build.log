@@ -1,152 +1,10 @@
-Debugger attached.
 
-> @reactive-resume/client@ build C:\Users\RD\Desktop\Reactive-Resume\client
+> @reactive-resume/client@ build C:\Users\RD\Desktop\New folder (5)\resumebuilder\client
 > next build && npm run sitemap
 
-Debugger attached.
 info  - Linting and checking validity of types...
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnWaiting for the debugger to disconnect...
-ect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect..Waiting for the debugger to disconnect...
-.
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
 info  - Creating an optimized production build...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-info  - Compiled successfully
-info  - Collecting page data...
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-Debugger attached.
-info  - Generating static pages (0/244)
-info  - Generating static pages (61/244)
-info  - Generating static pages (122/244)
-info  - Generating static pages (183/244)
-info  - Generating static pages (244/244)
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-info  - Finalizing page optimization...
-
-Route (pages)                              Size     First Load JS
-┌ ● /                                      7.54 kB         387 kB
-├   └ css/986261e1631b0f7e.css             767 B
-├   /_app                                  0 B             371 kB
-├ λ /[username]/[slug]                     2.91 kB         436 kB
-├ λ /[username]/[slug]/build               94.5 kB         539 kB
-├   └ css/71f3f18df297adee.css             3.44 kB
-├ λ /[username]/[slug]/printer             815 B           431 kB
-├   └ css/faa2ae4133d3141a.css             1.19 kB
-├ ○ /404                                   196 B           371 kB
-├ ● /dashboard                             3.14 kB         388 kB
-├   └ css/515141a7a223b2e6.css             850 B
-├ ○ /meta/privacy (22811 ms)               2.33 kB         374 kB
-├ ○ /meta/service (23074 ms)               2.41 kB         374 kB
-└ λ /r/[shortId]                           2.77 kB         436 kB
-+ First Load JS shared by all              379 kB
-  ├ chunks/framework-1878cec9098bdf50.js   45.3 kB
-  ├ chunks/main-68494da514293b22.js        32 kB
-  ├ chunks/pages/_app-6a30a325edb9e821.js  292 kB
-  ├ chunks/webpack-54e77ffb539b4fc1.js     1.99 kB
-  └ css/b201740ce47346be.css               8.25 kB
-
-λ  (Server)  server-side renders at runtime (uses getInitialProps or getServerSideProps)
-○  (Static)  automatically rendered as static HTML (uses no initial props)
-●  (SSG)     automatically generated as static HTML + JSON (uses getStaticProps)
-
-Waiting for the debugger to disconnect...
+warn  - Found lockfile missing swc dependencies, patching...
 npm WARN config cache-max This option has been deprecated in favor of `--prefer-online`
 npm WARN config cache-min This option has been deprecated in favor of `--prefer-offline`.
 npm WARN config optional Use `--omit=optional` to exclude optional dependencies, or
@@ -161,13 +19,64 @@ npm WARN config version of npm in favor of web-based login.
 npm WARN config tmp This setting is no longer used.  npm stores temporary files in a special
 npm WARN config location in the cache, and they are managed by
 npm WARN config     [`cacache`](http://npm.im/cacache).
-Debugger attached.
+warn  - Lockfile was successfully patched, please run "npm install" to ensure @next/swc dependencies are downloaded
 
-> @reactive-resume/client@ sitemap C:\Users\RD\Desktop\Reactive-Resume\client
+[1m[33mwarn[39m[22m - No utility classes were detected in your source files. If this is unexpected, double-check the `content` option in your Tailwind CSS configuration.
+[1m[33mwarn[39m[22m - https://tailwindcss.com/docs/content-configuration
+info  - Compiled successfully
+info  - Collecting page data...
+info  - Generating static pages (0/244)
+info  - Generating static pages (61/244)
+info  - Generating static pages (122/244)
+info  - Generating static pages (183/244)
+info  - Generating static pages (244/244)
+info  - Finalizing page optimization...
+
+Route (pages)                              Size     First Load JS
+┌ ● /                                      4.57 kB         384 kB
+├   └ css/70d9d9b4ae1a2611.css             677 B
+├   /_app                                  0 B             371 kB
+├ λ /[username]/[slug]                     2.91 kB         436 kB
+├ λ /[username]/[slug]/build               94.5 kB         539 kB
+├   └ css/71f3f18df297adee.css             3.44 kB
+├ λ /[username]/[slug]/printer             815 B           431 kB
+├   └ css/faa2ae4133d3141a.css             1.19 kB
+├ ○ /404                                   196 B           371 kB
+├ ● /dashboard                             3.14 kB         388 kB
+├   └ css/515141a7a223b2e6.css             850 B
+├ ○ /meta/privacy (14253 ms)               3.08 kB         374 kB
+├ ○ /meta/service (14287 ms)               10.2 kB         381 kB
+└ λ /r/[shortId]                           2.77 kB         436 kB
++ First Load JS shared by all              376 kB
+  ├ chunks/framework-1878cec9098bdf50.js   45.3 kB
+  ├ chunks/main-68494da514293b22.js        32 kB
+  ├ chunks/pages/_app-907f4596f17907dd.js  292 kB
+  ├ chunks/webpack-62ba688b3fee3385.js     1.99 kB
+  └ css/472f10fe8be79515.css               4.49 kB
+
+λ  (Server)  server-side renders at runtime (uses getInitialProps or getServerSideProps)
+○  (Static)  automatically rendered as static HTML (uses no initial props)
+●  (SSG)     automatically generated as static HTML + JSON (uses getStaticProps)
+
+npm WARN config cache-max This option has been deprecated in favor of `--prefer-online`
+npm WARN config cache-min This option has been deprecated in favor of `--prefer-offline`.
+npm WARN config optional Use `--omit=optional` to exclude optional dependencies, or
+npm WARN config `--include=optional` to include them.
+npm WARN config 
+npm WARN config     Default value does install optional deps unless otherwise omitted.
+npm WARN config shrinkwrap Use the --package-lock setting instead.
+npm WARN config sso-poll-frequency The --auth-type method of SSO/SAML/OAuth will be removed in a future
+npm WARN config version of npm in favor of web-based login.
+npm WARN config sso-type The --auth-type method of SSO/SAML/OAuth will be removed in a future
+npm WARN config version of npm in favor of web-based login.
+npm WARN config tmp This setting is no longer used.  npm stores temporary files in a special
+npm WARN config location in the cache, and they are managed by
+npm WARN config     [`cacache`](http://npm.im/cacache).
+
+> @reactive-resume/client@ sitemap C:\Users\RD\Desktop\New folder (5)\resumebuilder\client
 > next-sitemap --config next-sitemap.config.js
 
-Debugger attached.
-✨ [next-sitemap] Loading next-sitemap config: file:///C:/Users/RD/Desktop/Reactive-Resume/client/next-sitemap.config.js
+✨ [next-sitemap] Loading next-sitemap config: file:///C:/Users/RD/Desktop/New%20folder%20(5)/resumebuilder/client/next-sitemap.config.js
 ✅ [next-sitemap] Generation completed
 ┌───────────────┬────────┐
 │    (index)    │ Values │
@@ -189,6 +98,3 @@ Debugger attached.
    ○ https://rxresu.me/sitemap-0.xml
 
 
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
-Waiting for the debugger to disconnect...
